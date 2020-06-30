@@ -1,0 +1,10 @@
+[package]
+name = "sample"
+version = "0.1.0"
+authors = ["up1 <somkiat.p@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type=["dylib"]
+
+[dependencies]
